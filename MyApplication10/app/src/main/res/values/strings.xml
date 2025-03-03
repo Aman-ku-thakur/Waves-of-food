@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="history">History</string>
+    <string name="profile">profile</string>
+    <string name="search">Search</string>
+    <string name="cart">cart</string>
+    <string name="home">home</string>
+    <string name="write_your_name">write your name</string>
+    <string name="lorem_ipsum_is_placeholder_text_commonly_used_in_the_graphic_print_and_publishing_industries_for_previewing_layouts_and_visual">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual</string>
+    <string name="default_web_client_id">
+        1054206857087-ciao1flat85fou58mgf849gf461v4tcs.apps.intercontinental.com
+    </string>
+    <string name="write_your_phone_number">Write your phone number</string>
+    <string name="_5">$5</string>
+    <string name="food_name">Food NAme</string>
+</resources>
